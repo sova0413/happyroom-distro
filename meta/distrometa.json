@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/helios/happyroom/distro/schemas/DistroMetaSchema.schema.json",
+  "$schema": "https://github.com/sova0413/happyroom-distro/blob/main/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
